@@ -24,7 +24,7 @@
 <a href="https://github.com/basiqio/api-ref">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=api-ref&theme=buefy" />
 </a>
-<a href="">
+<a href="https://github.com/ashmanmalik/data-validation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashmanmalik&repo=data-validation&theme=buefy" />
 </a>
 
