@@ -1,4 +1,4 @@
-<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71918&multiline=true&width=435&lines=Hi+There%2C+My+Name+is+Ashman+Malik)](https://git.io/typing-svg)</centre></code>
+<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71918&multiline=true&width=435&lines=Hi+There%2C+My+Name+is+Ashman+Malik)](#)</centre></code>
 
 **About me**
 
@@ -31,4 +31,4 @@
 
 ### Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashmanmalik&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashmanmalik&theme=dark)](#)
