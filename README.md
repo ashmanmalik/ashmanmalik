@@ -1,4 +1,4 @@
-<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71918&multiline=true&width=435&lines=Hi+There%2C+My+Name+is+Ashman+Malik)](#)</centre></code>
+<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=28&pause=1000&color=3648F7&width=200&lines=Ashman+Malik)](#)</centre></code>
 
 **About me**
 
@@ -7,6 +7,8 @@
 - ❤️ I love writing Javascript, and building fun experiments with API first platform. 
 
 - 💬 Ask me about anything [here](https://github.com/ashmanmalik/portifolio/issues)
+
+- My Other Profile: https://github.com/basiq-ash
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
